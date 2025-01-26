@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+    height: 100vh;
+    flex-wrap: wrap;
+    }
+    .element{
+        background-color: bisque;
+        width: 100px;
+        height: 100px;
+        margin: 70px;
+    }
+    img{
+    width: 100%;
+    height: 100px;
+    }
+    button{
+        background-color: bisque;
+        color: black;
+    }
+    p{
+        color: darkmagenta;
+    }
+    
